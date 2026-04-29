@@ -12,24 +12,24 @@ document.addEventListener("DOMContentLoaded", () => {
             "debuts11.JPG","debuts1.JPG","debuts9.JPG",
             "debuts10.JPG","debuts7.JPG","debuts2.JPG"],
         gallery3: [ 
-            "com1.JPG","com2.JPG","com3.JPG",
-            "com4.JPG","com5.JPG","com6.JPG",
-            "com7.JPG","com8.JPG","com9.JPG",
-            "com10.JPG"],
+            "com1.jpg","com2.jpg","com3.jpg",
+            "com4.jpg","com5.jpg","com6.jpg",
+            "com7.jpg","com8.jpg","com9.jpg",
+            "com10.jpg"],
         gallery4: [
-            "meet1.JPG","meet2.JPG","meet8.JPG",
-            "meet6.JPG","meet12.JPG","meet11.JPG",
-            "meet7.JPG","meet3.JPG","meet9.JPG",
-            "meet10.JPG","meet5.JPG","meet6.JPG"],
+            "meet1.jpg","meet2.jpg","meet8.jpg",
+            "meet6.jpg","meet12.jpg","meet11.jpg",
+            "meet7.jpg","meet3.jpg","meet9.jpg",
+            "meet10.jpg","meet5.jpg","meet6.jpg"],
         gallery5: [
-            "meets1.JPG","meets2.JPG","meets8.JPG",
-            "meets6.JPG","meets12.JPG","meets11.JPG",
-            "meets6.JPG","meets3.JPG","meets9.JPG",
-            "meets10.JPG","meets5.JPG","meets7.JPG"],
+            "meets1.jpg","meets2.jpg","meets8.jpg",
+            "meets6.jpg","meets12.jpg","meets11.jpg",
+            "meets6.jpg","meets3.jpg","meets9.jpg",
+            "meets10.jpg","meets5.jpg","meets7.jpg"],
         gallery6: [
-            "booth1.JPG","booth6.JPG","booth3.JPG",
-            "booth7.JPG","booth5.JPG","booth2.JPG",
-            "booth4.JPG"]
+            "booth1.jpg","booth6.jpg","booth3.jpg",
+            "booth7.jpg","booth5.jpg","booth2.jpg",
+            "booth4.jpg"]
 
     };
 
